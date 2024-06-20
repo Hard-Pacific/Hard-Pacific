@@ -4,17 +4,13 @@
 
 I am a passionate Python programmer, hungry for knowledge and loving to teach. I am a 3rd year student, and I also help novice programmers learn the basics of programming.
 
-## My Skills🥞
+I'm always eager to learn and collaborate on interesting projects. If you'd like to connect or have any questions, don't hesitate to reach out!😉
+## MySkills🥞
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,github,matplotlib,seaborn,numpy,mongodb,sqlite,sklearn,canva&perline=3)
 
-* *Languages:* Python, SQL
-* *Tools & Frameworks:* Jupyter Notebook, GitHub, aiogram
-* *Data Science:* NumPy, Pandas, scikit-learn, matplotlib, plotly
-* *Databases:* MongoDB
+
 
 ## Get in Touch
 
-Feel free to connect with me on Telegram: t.me/HardPacific
+[![telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HardPacific)
 
-## Let's Code!
-
-I'm always eager to learn and collaborate on interesting projects. If you'd like to connect or have any questions, don't hesitate to reach out!😉
