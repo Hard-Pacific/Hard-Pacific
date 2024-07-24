@@ -6,7 +6,7 @@ I'm always eager to learn and collaborate on interesting projects. If you'd like
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hard-Pacific&theme=dark&type=png)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hard-pacific&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hard-pacific&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## MySkills🥞
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,github,mongodb,visualstudio,vscode,yaml,markdown)
