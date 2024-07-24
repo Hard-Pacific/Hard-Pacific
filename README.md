@@ -14,3 +14,5 @@ I'm always eager to learn and collaborate on interesting projects. If you'd like
 
 [![telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HardPacific)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=HardPacific&theme=dark&type=png)](https://git.io/streak-stats)
+
