@@ -1,5 +1,5 @@
 # Howdy! I am Dmitrii🤘
----
+
 ## About Me🔭
 I am a passionate Python programmer, hungry for knowledge and loving to teach. I am a 3rd year student, and I also help novice programmers learn the basics of programming.
 I'm always eager to learn and collaborate on interesting projects. If you'd like to connect or have any questions, don't hesitate to reach out!😉
@@ -10,7 +10,6 @@ I'm always eager to learn and collaborate on interesting projects. If you'd like
 
 ## MySkills🥞
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,github,mongodb,visualstudio,vscode,yaml,markdown)
-And aiogram, unittest,
 
 ## Soft skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva,notion,obsidian,onenote)
