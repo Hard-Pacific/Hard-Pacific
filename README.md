@@ -12,12 +12,18 @@ I'm always eager to learn and collaborate on interesting projects. If you'd like
 </div>
 
 ## MySkills🥞
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,github,mongodb,visualstudio,vscode,yaml,markdown)
+|Python|GitHub|Mongodb|VisualStudio|VSCode|YAML|Markdown|
+|-----|------|------|------|------|------|------|
+|![canva](https://go-skill-icons.vercel.app/api/icons?i=py)|![canva](https://go-skill-icons.vercel.app/api/icons?i=github)|![canva](https://go-skill-icons.vercel.app/api/icons?i=mongodb)|![canva](https://go-skill-icons.vercel.app/api/icons?i=visualstudio)|![canva](https://go-skill-icons.vercel.app/api/icons?i=vscode)|![canva](https://go-skill-icons.vercel.app/api/icons?i=yaml)|![canva](https://go-skill-icons.vercel.app/api/icons?i=markdown)|\
 ## Soft skills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva,notion,obsidian,onenote)
+|Canva|Notion|Obsidian|OneNote|
+|-----|------|------|------|
+|![canva](https://go-skill-icons.vercel.app/api/icons?i=canva)|![canva](https://go-skill-icons.vercel.app/api/icons?i=notion)|![canva](https://go-skill-icons.vercel.app/api/icons?i=obsidian)|![canva](https://go-skill-icons.vercel.app/api/icons?i=onenote)|
 
 ## Data science
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,matplotlib,seaborn,numpy,mongodb,sklearn)
+|Python|matplotlib|seaborn|numpy|mongodb|sklearn|
+|-----|------|------|------|------|------|
+|![canva](https://go-skill-icons.vercel.app/api/icons?i=py)|![canva](https://go-skill-icons.vercel.app/api/icons?i=matplotlib)|![canva](https://go-skill-icons.vercel.app/api/icons?i=seaborn)|![canva](https://go-skill-icons.vercel.app/api/icons?i=numpy)|![canva](https://go-skill-icons.vercel.app/api/icons?i=mongodb)|![canva](https://go-skill-icons.vercel.app/api/icons?i=sklearn)|
 
 ## Get in Touch
 [![telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HardPacific)
