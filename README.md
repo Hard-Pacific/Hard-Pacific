@@ -7,7 +7,7 @@ I am a passionate Python programmer, hungry for knowledge and loving to teach. I
 I'm always eager to learn and collaborate on interesting projects. If you'd like to connect or have any questions, don't hesitate to reach out!😉
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hard-Pacific&theme=dark&hide_border=true&card_width=1080&card_height=300&background=0A0E12&ring=268A38)](https://git.io/streak-stats"/>
+  <img src="https://streak-stats.demolab.com?user=Hard-Pacific&theme=dark&hide_border=true&card_width=900&card_height=300&background=0A0E12&ring=268A38)](https://git.io/streak-stats"/>
   <img src="https://leetcard.jacoblin.cool/LeeDmitrii?theme=dark&font=Julius%20Sans%20One&width=550&height=200&background=0A0E12&animation=true&ext=activity"/>
 </p>
 
