@@ -29,6 +29,6 @@ I'm always eager to learn and collaborate on interesting projects. If you'd like
 |![canva](https://go-skill-icons.vercel.app/api/icons?i=py)|![canva](https://go-skill-icons.vercel.app/api/icons?i=matplotlib)|![canva](https://go-skill-icons.vercel.app/api/icons?i=seaborn)|![canva](https://go-skill-icons.vercel.app/api/icons?i=numpy)|![canva](https://go-skill-icons.vercel.app/api/icons?i=mongodb)|![canva](https://go-skill-icons.vercel.app/api/icons?i=sklearn)|
 
 ## Get in Touch
-[![telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HardPacific)
+<img align='right' src='https://goo.su/P8IJrv'>
+![telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/HardPacific)
 
-![KIANUU](https://goo.su/P8IJrv)
