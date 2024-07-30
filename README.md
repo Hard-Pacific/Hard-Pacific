@@ -15,6 +15,7 @@ I'm always eager to learn and collaborate on interesting projects. If you'd like
 |Python|GitHub|Mongodb|VisualStudio|VSCode|YAML|Markdown|
 |-----|------|------|------|------|------|------|
 |![canva](https://go-skill-icons.vercel.app/api/icons?i=py)|![canva](https://go-skill-icons.vercel.app/api/icons?i=github)|![canva](https://go-skill-icons.vercel.app/api/icons?i=mongodb)|![canva](https://go-skill-icons.vercel.app/api/icons?i=visualstudio)|![canva](https://go-skill-icons.vercel.app/api/icons?i=vscode)|![canva](https://go-skill-icons.vercel.app/api/icons?i=yaml)|![canva](https://go-skill-icons.vercel.app/api/icons?i=markdown)|\
+
 ## Soft skills
 |Canva|Notion|Obsidian|OneNote|
 |-----|------|------|------|
