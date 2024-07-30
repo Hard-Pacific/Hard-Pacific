@@ -3,7 +3,7 @@
 
 ## About me🔭
 <p align="center">
-
+I'm a third-year computer science student with a passion for Python programming. I'm always eager to learn new things and dive into challenging projects. I enjoy working with big data and I am always ready to collaborate with other programmers
 </p>
 <p align="center">
   <img align='center' src="https://streak-stats.demolab.com?user=Hard-Pacific&theme=dark&hide_border=true&card_width=800&card_height=300&background=0A0E12&ring=268A38)](https://git.io/streak-stats"/>
