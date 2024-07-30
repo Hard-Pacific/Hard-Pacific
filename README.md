@@ -30,5 +30,7 @@ I'm always eager to learn and collaborate on interesting projects. If you'd like
 
 ## Get in Touch
 <img align='right' src='https://goo.su/P8IJrv'>
-![telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/HardPacific)
+<p align="left">
+  <img src="">](https://t.me/HardPacific)
+</p>
 
