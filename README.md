@@ -30,7 +30,7 @@ I'm always eager to learn and collaborate on interesting projects. If you'd like
 
 ## Get in Touch
 <img align='right' src='https://goo.su/P8IJrv'>
-<p align="left">
-  <img src="">](https://t.me/HardPacific)
-</p>
+
+[<img src="https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/telegram_icon.png" width="100"/>](https://t.me/HardPacific)
+
 
