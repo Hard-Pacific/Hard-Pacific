@@ -2,16 +2,15 @@
 # Howdy! I am Dmitrii🤘
 
 ## About me🔭
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'>
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'>
 <p align="center">
->> Main lang: Python
->> Status: 3rd grade student
->> Current job: Teacher😉
+
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hard-Pacific&theme=dark&hide_border=true&card_width=800&card_height=300&background=0A0E12&ring=268A38)](https://git.io/streak-stats"/>
-  <img src="https://leetcard.jacoblin.cool/LeeDmitrii?theme=dark&font=Roboto%20Mono&width=550&height=200&background=0A0E12&animation=true&ext=activity"/>
+  <img align='center' src="https://streak-stats.demolab.com?user=Hard-Pacific&theme=dark&hide_border=true&card_width=800&card_height=300&background=0A0E12&ring=268A38)](https://git.io/streak-stats"/>
+  <img align='center' src="https://leetcard.jacoblin.cool/LeeDmitrii?theme=dark&font=Roboto%20Mono&width=550&height=200&background=0A0E12&animation=true&ext=activity"/>
+  <img align='left' width=200 src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'>
+  <img align='right' width=200 src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'>
+  
 </p>
 
 ## MySkills🥞
