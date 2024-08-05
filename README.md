@@ -3,7 +3,7 @@
 
 ## About me🔭
 <p align="center">
-<img align='right' width=200 src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'>
+<img align='right' width=100 src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'>
 I'm a third-year computer science student with a passion for Python programming. I'm always eager to learn new things and dive into challenging projects. I enjoy working with big data and I am always ready to collaborate with other programmers
 
   
