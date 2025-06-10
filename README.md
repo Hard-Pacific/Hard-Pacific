@@ -15,7 +15,7 @@
 >🧩 I enjoy working with big data and I am always ready to collaborate with other programmers.
 
 <p align="center">
-  <img align='center' src="https://streak-stats.demolab.com?user=Hard-Pacific&theme=dark&hide_border=true&card_width=800&card_height=300&background=0A0E12&ring=268A38)](https://git.io/streak-stats"/>
+
   <img align='center' src="https://leetcard.jacoblin.cool/LeeDmitrii?theme=dark&font=Roboto%20Mono&width=550&height=200&background=0A0E12&animation=true&ext=activity"/>
 
 </p>
