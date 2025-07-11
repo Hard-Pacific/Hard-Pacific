@@ -1,8 +1,8 @@
 # *Howdy! I am Dmitrii🤘*
 
-  
-<img align='right' width=100 src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'>
 <div align="center">
+<img align='right' width=100 src='https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/preview.png'>
+
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=50&pause=1000&color=F72A1E&center=true&vCenter=true&width=666&height=77&lines=Get+a+critical+success)](https://git.io/typing-svg)
 
