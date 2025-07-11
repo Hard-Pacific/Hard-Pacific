@@ -1,7 +1,7 @@
 <div align="center">
   
 <img align='right' width=2000 src='https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/preview.png'>
-  
+
 </div>
 
 
