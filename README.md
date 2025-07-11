@@ -5,7 +5,7 @@
 </div>
 
 
-# *Howdy! I am Dmitrii🤘*
+## *DS enjoyer* | *SPBU student* | *Python enjoyer*
 >🎯 I'm a third-year computer science student with a passion for Python programming.
 
 >❤ I'm always eager to learn new things and dive into challenging projects.
@@ -18,7 +18,7 @@
 
 </p>
 
-## MySkills🥞
+### MySkills🥞
 
 <div style="text-align: center;">
     <span style="display: inline-block; margin: 5px;">
@@ -91,7 +91,7 @@
 </div>
 
 
-## Get in Touch
+### Get in Touch
 <img align='right' src='https://goo.su/P8IJrv'>
 
 [<img src="https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/telegram_icon.png" width="50"/>](https://t.me/HardPacific) [<img src="https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/gmail_icon.png" width="50"/>](https://leedmytriy@gmail.com) [<img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/Instagram.svg" width="50"/>]("https://www.instagram.com/hard_pacific/)
