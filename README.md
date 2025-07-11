@@ -1,13 +1,11 @@
-# *Howdy! I am Dmitrii🤘*
-
 <div align="center">
-<img align='right' width=100 src='https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/preview.png'>
-
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=50&pause=1000&color=F72A1E&center=true&vCenter=true&width=666&height=77&lines=Get+a+critical+success)](https://git.io/typing-svg)
-
+<img align='right' width=2000 src='https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/preview.png'>
+  
 </div>
 
+
+# *Howdy! I am Dmitrii🤘*
 >🎯 I'm a third-year computer science student with a passion for Python programming.
 
 >❤ I'm always eager to learn new things and dive into challenging projects.
