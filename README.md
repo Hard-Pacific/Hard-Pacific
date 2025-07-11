@@ -96,6 +96,6 @@
 ## Get in Touch
 <img align='right' src='https://goo.su/P8IJrv'>
 
-[<img src="https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/telegram_icon.png" width="50"/>](https://t.me/HardPacific) [<img src="https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/gmail_icon.png" width="50"/>](https://leedmytriy@gmail.com)
+[<img src="https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/telegram_icon.png" width="50"/>](https://t.me/HardPacific) [<img src="https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/gmail_icon.png" width="50"/>](https://leedmytriy@gmail.com) [<img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/Instagram.svg" width="50"/>]("https://www.instagram.com/hard_pacific/)
 
 
