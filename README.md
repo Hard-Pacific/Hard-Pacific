@@ -61,9 +61,6 @@
         <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="50" height="50">
     </span>
     <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" width="50" height="50">
     </span>
 </div>
