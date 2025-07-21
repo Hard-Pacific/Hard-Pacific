@@ -1,6 +1,6 @@
 <div align="center">
   
-<img align='right' width=2000 src='https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/preview.png'>
+<img align='center' width=800 src='https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/preview.png'>
 
 </div>
 
@@ -19,7 +19,7 @@
 </p>
 
 
-### MySkills🥞
+### My skills
 
 <div style="text-align: center;">
     <span style="display: inline-block; margin: 5px;">
@@ -40,9 +40,6 @@
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=yaml" width="50" height="50">
     </span>
-</div>
-
-<div style="text-align: center;">
     <span style="display: inline-block; margin: 5px;">
         <img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/pandas-auto.svg" width="50" height="50">
     </span>
@@ -52,6 +49,8 @@
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" width="50" height="50">
     </span>
+  </div>
+<div style="text-align: center;">
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" width="50" height="50">
     </span>
@@ -61,8 +60,6 @@
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="50" height="50">
     </span>
-</div>
-<div style="text-align: center;">
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" width="50" height="50">
     </span>
@@ -88,6 +85,9 @@
 ### Get in Touch
 <img align='right' src='https://goo.su/P8IJrv' width=200>
 
-[<img src="https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/telegram_icon.png" width="50"/>](https://t.me/HardPacific) [<img src="https://github.com/Hard-Pacific/Hard-Pacific/blob/main/assets/gmail_icon.png" width="50"/>](https://leedmytriy@gmail.com) [<img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/Instagram.svg" width="50"/>]("https://www.instagram.com/hard_pacific/)
+[<img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" />](https://t.me/HardPacific)
+[<img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail"/>]([https://t.me/HardPacific](https://leedmytriy@gmail.com))
+[<img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram" />]("https://www.instagram.com/hard_pacific/)
+
 
 
