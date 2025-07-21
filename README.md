@@ -14,7 +14,7 @@
 
 <p align="left">
 
-  <img align='center' src="https://leetcard.jacoblin.cool/LeeDmitrii?theme=dark&font=Roboto%20Mono&width=550&height=200&background=0A0E12&animation=true&ext=activity"/>
+  <img align='center' src="https://leetcard.jacoblin.cool/LeeDmitrii?theme=dark&font=Roboto%20Mono&width=550&height=200&background=0A0E12&animation=true" />
 
 </p>
 
