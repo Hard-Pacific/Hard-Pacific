@@ -30,6 +30,8 @@
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="50" height="50">
     </span>
+</div>
+<div style="text-align: center;">
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" width="50" height="50">
     </span>
@@ -51,6 +53,8 @@
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" width="50" height="50">
     </span>
+</div>
+<div style="text-align: center;">
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" width="50" height="50">
     </span>
@@ -60,21 +64,19 @@
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="50" height="50">
     </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" width="50" height="50">
-    </span>
 </div>
-
 <div style="text-align: center;">
     <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=onenote" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=notion" width="50" height="50">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" width="50" height="50">
     </span>
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=obsidian" width="50" height="50">
     </span>
+    <span style="display: inline-block; margin: 5px;">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=notion" width="50" height="50">
+    </span>
+</div>
+<div style="text-align: center;">
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" width="50" height="50">
     </span>
@@ -85,7 +87,7 @@
         <img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/renpy-auto.svg" width="50" height="50">
     </span>
   
-</div>
+</div>  
 
 
 ### Get in Touch
