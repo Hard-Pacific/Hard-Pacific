@@ -14,9 +14,10 @@
 
 <p align="left">
 
-  <img align='left' src="https://leetcard.jacoblin.cool/LeeDmitrii?theme=dark&font=Roboto%20Mono&width=550&height=200&background=0A0E12&animation=true&ext=activity"/>
+  <img align='center' src="https://leetcard.jacoblin.cool/LeeDmitrii?theme=dark&font=Roboto%20Mono&width=550&height=200&background=0A0E12&animation=true&ext=activity"/>
 
 </p>
+
 
 ### MySkills🥞
 
@@ -30,8 +31,6 @@
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="50" height="50">
     </span>
-</div>
-<div style="text-align: center;">
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" width="50" height="50">
     </span>
@@ -53,8 +52,6 @@
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" width="50" height="50">
     </span>
-</div>
-<div style="text-align: center;">
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" width="50" height="50">
     </span>
@@ -75,8 +72,6 @@
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=notion" width="50" height="50">
     </span>
-</div>
-<div style="text-align: center;">
     <span style="display: inline-block; margin: 5px;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" width="50" height="50">
     </span>
