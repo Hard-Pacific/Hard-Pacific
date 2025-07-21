@@ -5,7 +5,7 @@
 </div>
 
 
-## *DS enjoyer* | *SPBU student* | *Python enjoyer*
+### *DS enjoyer* | *SPBU student* | *Python enjoyer*
 >🎯 I'm a third-year computer science student with a passion for Python programming.
 
 >❤ I'm always eager to learn new things and dive into challenging projects.
@@ -19,68 +19,22 @@
 </p>
 
 
-### My skills
-
-<div style="text-align: center;">
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=py" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=yaml" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/pandas-auto.svg" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/jupyter-auto.svg" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" width="50" height="50">
-    </span>
-  </div>
-<div style="text-align: center;">
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" width="50" height="50">
-    </span>
-     <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=obsidian" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=notion" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=markdown" width="50" height="50">
-    </span>
-    <span style="display: inline-block; margin: 5px;">
-        <img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/renpy-auto.svg" width="50" height="50">
-    </span>
-  
-</div>  
-
+### Technologies
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py" width="48" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="48" height="48"/>
+  <img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/pandas-auto.svg" width="48" height="48"/>
+  <img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/jupyter-auto.svg" width="48" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" width="48" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" width="48" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" width="48" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" width="48" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="48" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="48" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=markdown" width="48" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" width="48" height="48"/>
+  <img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/renpy-auto.svg" width="48" height="48"/>
+</p>
 
 ### Get in Touch
 <img align='right' src='https://goo.su/P8IJrv' width=200>
