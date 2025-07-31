@@ -39,9 +39,9 @@
 ### Get in Touch
 <img align='right' src='https://goo.su/P8IJrv' width=200>
 
-[<img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" />](https://t.me/HardPacific)
-[<img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail"/>]([https://t.me/HardPacific](https://leedmytriy@gmail.com))
-[<img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram" />]("https://www.instagram.com/hard_pacific/)
+[<img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram">](https://t.me/HardPacific)
+[<img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail">](https://leedmytriy@gmail.com)
+[<img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram">](https://www.instagram.com/hard_pacific/)
 
 
 
